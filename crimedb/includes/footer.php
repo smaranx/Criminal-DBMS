@@ -12,15 +12,17 @@
                         <li><a href="user/signin.php"><strong style="color: white">User</strong></a></li>
                        
                  
-                     <p class="footer-class"> © 2020 Crime Record Management System </p>
-                    <ul class="social">
+                     <p class="footer-class"> © 2020 Crime Record Management System<br>
+                     Developed by Smaran Ummadishetty
+                     </p>
+                    <!--ul class="social">
                         <li><a href="#"><i> </i></a></li>                       
                         <li><a href="#"><i class="rss"> </i></a></li>
                         <li><a href="#"><i class="twitter"> </i></a></li>
                         <li><a href="#"><i class="dribble"> </i></a></li>
                         <li><a href="#"><i class="linked"> </i></a></li>
                         <li><a href="#"><i class="camera"> </i></a></li>
-                    </ul>
+                    </ul-->
                 </div>
             </div>
         </div>

@@ -1,9 +1,4 @@
-/*--A Design by W3layouts 
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 @font-face {
     font-family: 'Oxygen-Regular';
     src:url(../fonts/Oxygen-Regular.ttf) format('truetype');
@@ -31,13 +26,7 @@ body a{
 h1,h2,h3,h4,h5,h6,p,label{
 	margin:0;
 }
-.header{
-	background: url(../images/1.jpg) no-repeat;
-	width:100%;
-	display:block;
-	height:690px;
-	  background-size: cover;
-}
+
 .header-top {
   background: #1b3e5c;
   padding: 2em 0;

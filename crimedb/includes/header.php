@@ -1,10 +1,7 @@
 <div class="header-top">
     <div class="container">
-        <div class="logo">
-            <a href="index.php"><img src="images/images.jpg" alt=""></a>
-        </div>
         <div class="top-nav">
-                <span class="menu"><img src="images/menu.png" alt="">  </span>
+                <span class="menu"> </span>
                     <ul >
                         <li ><a href="index.php" > Home </a></li>
                         <li><a href="user/signin.php" > User</a></li>
