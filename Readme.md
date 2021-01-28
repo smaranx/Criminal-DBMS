@@ -6,6 +6,7 @@ This is a crime record management system which can be used by armed forces to ke
 
 * HTML
 * CSS
+* SCSS
 * JavaScript
 * PHP
 * MySql
