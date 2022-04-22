@@ -4,9 +4,9 @@
                 <span class="menu"> </span>
                     <ul >
                         <li ><a href="index.php" > Home </a></li>
-                        <li><a href="user/signin.php" > User</a></li>
-                        <li><a href="police/signin.php" >Police</a></li> 
-                        <li><a href="admin/signin.php" >Admin</a></li> 
+                        <li><a href="../user/signin.php" > User</a></li>
+                        <li><a href="../police/signin.php" >Police</a></li> 
+                        <li><a href="../admin/signin.php" >Admin</a></li> 
                     <div class="clearfix"> </div>
                     </ul>
                     <script>
